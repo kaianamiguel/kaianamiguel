@@ -17,7 +17,10 @@
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/kaianamiguel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kaianamiguel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
   
-    ![Snake animation](https://github.com/kaianamiguel/kaianamiguel/blob/output/github-contribution-grid-snake.svg)
+ <div align="center">
+
+  ![Snake animation](https://github.com/kaianamiguel/kaianamiguel/blob/output/github-contribution-grid-snake.svg)
   
 </div>
