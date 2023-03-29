@@ -1,11 +1,13 @@
-## Oi! Eu sou a Kaiana Miguel!
-Faço parte da equipe de Desenvolvimento Web na Prefeitura de Criciuma<br>
+## Oii, Eu sou a Kaiana! 💜
 
-<div align="center">
-  <a href="https://github.com/kaianamiguel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaianamiguel&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaianamiguel&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
+
+
+💻 Faço parte da equipe de Desenvolvimento Web na Prefeitura de Criciúma<br>
+📙 Cursando Análise e Desenvolvimento de Sistemas - UNESC<br>
+⭐ Estudando JavaScript e adorando!<br>
+💜 Amo tudo que envolva criar e desenhar!<br>
+    
+
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Kaiana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
