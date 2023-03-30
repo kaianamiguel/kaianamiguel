@@ -25,5 +25,9 @@
 <div align="center">
 
   ![Snake animation](https://github.com/kaianamiguel/kaianamiguel/blob/output/github-contribution-grid-snake.svg)
-  
+ 
+</div>
+
+<div align="center">
+    <img align="center" alt="octocat" width="350" src="https://ik.imagekit.io/oo2jaztrw/octocat-1680178638188.png?updatedAt=1680178748884">
 </div>
