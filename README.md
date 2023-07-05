@@ -1,11 +1,11 @@
-## Oii, Eu sou a Kaiana! 💜
+## Oii, Eu sou a Kaiana! 💜💚
 
 
 
 💻 Faço parte da equipe de Desenvolvimento Web na Prefeitura de Criciúma<br>
 📙 Cursando Análise e Desenvolvimento de Sistemas - UNESC<br>
 ⭐ Estudando Java/Spring/Angular!<br>
-💜 Amo tudo que envolva criar e desenhar!<br>
+💚 Amo tudo que envolva criar e desenhar!<br>
     
 
 <div align="center">  
