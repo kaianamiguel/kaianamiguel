@@ -1,4 +1,4 @@
-## Oii, Eu sou a Kaiana! 💜💚
+## Oii, Eu sou a Kaiana!💚
 
 
 
