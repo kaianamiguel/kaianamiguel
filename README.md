@@ -14,6 +14,9 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
+<!--     <img align="center" alt="Kaiana-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> -->
+    <img align="center" alt="Kaiana-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+    <img align="center" alt="Kaiana-CakePHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cakephp/cakephp-original.svg">
   <img align="center" alt="Kaiana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kaiana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaiana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
