@@ -4,7 +4,7 @@
 
 💻 Faço parte da equipe de Desenvolvimento Web na Prefeitura de Criciúma<br>
 📙 Cursando Análise e Desenvolvimento de Sistemas - UNESC<br>
-⭐ Estudando Java/Spring/Angular!<br>
+⭐ Estudando Java/Spring!<br>
 💚 Amo tudo que envolva criar e desenhar!<br>
     
 
